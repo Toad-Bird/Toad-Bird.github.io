@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Why We Are Abandoning High Score
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Tumblefolk Tempest will no longer be a high score game. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This isn’t because we think high score is fundamentally flawed (though many high score games do share some significant flaws). We just felt that the details of our high score system left the matches feeling inconsequential. In the current system a tumblefolk’s death means nothing, it’s just a few missed points. It feels almost as if nothing bad can happen to the player, nothing to create a sense of desperation, nothing to push them to improve. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+So we’re attempting to raise the stakes by introducing a win condition (and a single player elo of course). In the new system the player will lose if too many tumblefolk die and in order to win they must avoid losing for a given number of turns (tumbles left on the board at the end are counted as dead). The new fixed match length means that the energy system, which allowed the player to extend the game, has also been replaced (but that’s another blog post). 
+
