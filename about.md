@@ -2,14 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+We are game designers focused on single-player, match based, tactics/strategy games.
 
-### More Information
+### Peter Siecienski [@beosnook](https://twitter.com/beosnook)
 
-A place to include any other types of information that you'd like to include about yourself.
+Codesigner and artist.
 
-### Contact me
+### Zach Rail [@Toad_Racer](https://twitter.com/Toad_Racer)
 
-[email@domain.com](mailto:email@domain.com)
+Codesigner and programmer.
+
+### Contact Us
+
+[toadbirdgames@gmail.com](mailto:toadbirdgames@gmail.com)
