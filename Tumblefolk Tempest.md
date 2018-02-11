@@ -1,5 +1,5 @@
-![Tumblefolk Tempest Logo]({{site.baseurl}}/titlelogoart.png)
-![Tumblefolk Tempest Screenshot]({{site.baseurl}}/D4UPUgt.jpg)
+![Tumblefolk Tempest Logo]({{site.baseurl}}/images/titlelogoart.png)
+![Tumblefolk Tempest Screenshot]({{site.baseurl}}/images/D4UPUgt.jpg)
 
 [Tumblefolk Tempest](https://toadbird.itch.io/tumblefolk-tempest) is a singleplayer, turn-based, tactics game.
 
@@ -7,15 +7,15 @@ In a magical desert lives a race of hapless, tumbleweed dwelling, creatures know
 
 You play as Nimbus, a cute little wind elemental on a mission to rescue Tumblefolk from their prickly fate.
 
-![Nimbus Sprite]({{site.baseurl}}/So2L9Gb.png)
+![Nimbus Sprite]({{site.baseurl}}/images/So2L9Gb.png)
 
 Being a wind elemental, you can create "wind tethers" between Tumblefolk to blow them around the board.
 
-![Tether Example]({{site.baseurl}}/cSkDuHQ.png)
+![Tether Example]({{site.baseurl}}/images/cSkDuHQ.png)
 
 You can also activate various other wind powers using ability tiles.
 
-![Ability Tile Examples]({{site.baseurl}}/abilityTilesArt.png)
+![Ability Tile Examples]({{site.baseurl}}/images/abilityTilesArt.png)
 
 In order to win you must cleverly use your wind powers to redirect Tumblefolk from their collision course and towards safety.
 
