@@ -10,4 +10,5 @@ This isn’t because we think high score is fundamentally flawed (though many hi
 
 So we’re attempting to raise the stakes by introducing a win condition (and a single player elo of course). In the new system the player will lose if too many tumblefolk die and in order to win they must avoid losing for a given number of turns (tumbles left on the board at the end are counted as dead). The new fixed match length means that the energy system, which allowed the player to extend the game, has also been replaced (but that’s another blog post).
 
-![Success rock]({{site.baseurl}}/_posts/successArt.png)
+![cSkDuHQ.png]({{site.baseurl}}/_posts/cSkDuHQ.png)
+
