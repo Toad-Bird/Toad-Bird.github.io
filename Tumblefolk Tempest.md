@@ -15,6 +15,8 @@ Being a wind elemental, you can create "wind tethers" between Tumblefolk to blow
 
 You can also activate various other wind powers using ability tiles.
 
+![Ability Tile Examples]({{site.baseurl}}/abilityTilesArt.png)
+
 In order to win you must cleverly use your wind powers to redirect Tumblefolk from their collision course and towards safety.
 
 ### Links
@@ -24,4 +26,3 @@ Download: [https://toadbird.itch.io/tumblefolk-tempest](https://toadbird.itch.io
 Gameplay Video: [https://youtu.be/kx3MoqmAFzk](https://youtu.be/kx3MoqmAFzk)
 
 Tutorial Video: [https://youtu.be/t1ek3Li1gbI](https://youtu.be/t1ek3Li1gbI)
-
