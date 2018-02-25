@@ -11,11 +11,11 @@ This is mostly just a neat edge case behavior that can occasionally lead to a co
 
 - Tumblefolk had resources they would drop during tornadoes.
 
-- Ability tiles had to be recharged by tumblefolk that landed next to them after tornadoes.
-
 - We had special units called “storm cores" which were created by encircling a portal with a tornado.
 
 - Storm cores could only be moved by tornadoes.
+
+- Ability tiles had to be recharged by using tornadoes to drop Tumblefolk next to them.
 
 - We tried giving the player 1 tornado per turn instead of 1 tether per turn.
 
@@ -41,4 +41,4 @@ Seeds will sit on a space until a Tumblefolk hits them. Depending on the combina
 
 ---
 
-*If you want to hear how these changes work out [follow us on Twitter](https://twitter.com/bird_toad)*
+*If you want to see how these changes work out [follow us on Twitter](https://twitter.com/bird_toad)*
