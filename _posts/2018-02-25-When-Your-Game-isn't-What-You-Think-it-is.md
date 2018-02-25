@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The project folder for Tumblefolk Tempest has always had the name “tornado”. This is a reference to a relatively minor mechanism in the game that we once thought to be its central feature. 
 
