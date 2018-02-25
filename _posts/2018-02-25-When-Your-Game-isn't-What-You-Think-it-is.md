@@ -35,6 +35,8 @@ For example, we are changing ability tiles so that they can be activated at any 
 
 We're also introducing a new type of resource called seeds. Seeds will sit on a space until a Tumblefolk hits them. Depending on the combination of seed type and Tumblefolk tribe involved in the collision, the seed will either be added to the player's inventory or be destroyed. This means that the paths Tumblefolk take to their destinations determine which resources get collected.
 
+![Seeds]({{site.baseurl}}/images/seeds.jpg)
+
 ---
 
 *If you want to hear how these changes work out [follow us on Twitter](https://twitter.com/bird_toad)*
