@@ -33,9 +33,11 @@ Tornadoes are a tool for instantaneously moving Tumblefolk, whereas tethers are 
 
 For example, we are changing ability tiles so that they can be activated at any time and will affect any wind chain going over them. This means that the shape of the wind tethers determines which abilities can affect them.
 
-We're also introducing a new type of resource called seeds. Seeds will sit on a space until a Tumblefolk hits them. Depending on the combination of seed type and Tumblefolk tribe involved in the collision, the seed will either be added to the player's inventory or be destroyed. This means that the paths Tumblefolk take to their destinations determine which resources get collected.
+We're also introducing a new type of resource called seeds.
 
 ![Seeds]({{site.baseurl}}/images/seeds.jpg)
+
+Seeds will sit on a space until a Tumblefolk hits them. Depending on the combination of seed type and Tumblefolk tribe involved in the collision, the seed will either be added to the player's inventory or be destroyed. This means that the paths Tumblefolk take to their destinations determine which resources get collected.
 
 ---
 
